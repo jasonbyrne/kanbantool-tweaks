@@ -1,4 +1,4 @@
-#overlay {
+#overlay[style] {
   width: 90% !important;
   height: 90% !important;
   padding: 0px 16px !important;
