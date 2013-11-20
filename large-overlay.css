@@ -1,0 +1,14 @@
+#overlay {
+  width: 90%;
+  height: 90%;
+  padding: 0px 16px;
+  position: fixed;
+  z-index: 10000;
+  top: 5%;
+  left: 5%;
+  display: block;
+  background-image: none;
+  background: #dfdfdf;
+  border:  solid 1px #000;
+  
+}
