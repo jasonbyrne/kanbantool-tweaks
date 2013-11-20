@@ -17,5 +17,5 @@
 }
 
 body#show.boards #content table#board td ul.task_list li div.task_pane .task_name {
-  font-size:13px; line-height:17px;
+  font-size:14px; line-height:20px;
 }
